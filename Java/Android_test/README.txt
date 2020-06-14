@@ -1,0 +1,2 @@
+This project is a attempt to make a Android app from scratch without using Android Studio or Gradle as seen in:
+https://medium.com/@authmane512/how-to-build-an-apk-from-command-line-without-ide-7260e1e22676
